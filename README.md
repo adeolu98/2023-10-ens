@@ -103,6 +103,10 @@ yarn
 npx hardhat node
 # run in another terminal
 yarn test test/delegatemulti.js
+
+# run gas test 
+yarn test ./test/G-01Test.js
+
 # for coverage
 yarn coverage
 ```
