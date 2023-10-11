@@ -1,1 +1,1 @@
-## Navigate to branch G-01 and branch G-02  to see the gas tests. 
+## Navigate to branch G-01 and branch G-02  to read the README.md file and see their gas tests. 
